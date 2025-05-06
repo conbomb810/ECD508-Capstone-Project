@@ -1,0 +1,22 @@
+# pack-refs with: peeled fully-peeled sorted 
+a4167305582355ca2d80c295b7cb4dadaf4d9935 refs/remotes/origin/dashing-devel
+b3c0b083ac03aa8c648537d7e4d22608fcd3440c refs/remotes/origin/foxy-devel
+084a464f4a9bc7cbe6735df9fdb5837090911909 refs/remotes/origin/hydro-devel
+96fd51032e91e27c966535bc3ca11ab3cf35edff refs/remotes/origin/indigo-devel
+e280f91b332a63cd85c8f8de08fa93d0a90b6a25 refs/remotes/origin/jade-devel
+c228e2d00b7ea7b7a46ccdc81d29e6b2d32c6a38 refs/remotes/origin/kinetic-devel
+32c7784d948a7d2d662533a58e3bd32a01c1c5b7 refs/remotes/origin/melodic-devel
+7e457078b5234d3c227add3cd3e04385278cf5be refs/tags/0.0.1
+31750e5d43a284df0fe7069c5c7a33fee888ea83 refs/tags/0.0.2
+d978c5e9b9ad3440469b7e1183e9a29930bb3422 refs/tags/0.0.3
+90bbebdad0a0cdec18683759c91c8d8a3946ffd1 refs/tags/0.0.4
+084a464f4a9bc7cbe6735df9fdb5837090911909 refs/tags/0.0.5
+19608ee15502af703e0f21ee601ff7cf0c481a75 refs/tags/1.0.2
+82d80ecd37bdb8227b9e6dc4d84dd0cf385460cc refs/tags/1.0.3
+96fd51032e91e27c966535bc3ca11ab3cf35edff refs/tags/1.0.4
+68e41d5563f0ae8744ff7f7a8a1e27385d5babb6 refs/tags/2.0.0
+c228e2d00b7ea7b7a46ccdc81d29e6b2d32c6a38 refs/tags/3.0.0
+a4167305582355ca2d80c295b7cb4dadaf4d9935 refs/tags/3.1.0
+a2818fda98d68c80ec300f962013c98252c769e2 refs/tags/3.1.1
+6c1bbe4fe49ea80bf84d2d875577fea8f27bbd6b refs/tags/4.0.0
+116d61b9c4a264890e4dd68dca7b49463fdd33bf refs/tags/4.0.1

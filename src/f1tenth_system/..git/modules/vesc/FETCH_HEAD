@@ -1,0 +1,5 @@
+e3f3084408f46bdd09de6a6b69ba9ce1152dc39f		branch 'main' of https://github.com/f1tenth/vesc
+5b2bd1b3f3896b078e5d91623702e73d62ece7a7	not-for-merge	branch 'foxy' of https://github.com/f1tenth/vesc
+9646ee5d20e9fc208f066b6a9b98ca372536071d	not-for-merge	branch 'kinetic' of https://github.com/f1tenth/vesc
+153998df8545fe1781b975df88e411b4e71d4bfe	not-for-merge	branch 'ros2' of https://github.com/f1tenth/vesc
+4f3e08b1b7148915be257f2ab670ba3fc0e1cf66	not-for-merge	branch 'ros2-rebase-fix' of https://github.com/f1tenth/vesc

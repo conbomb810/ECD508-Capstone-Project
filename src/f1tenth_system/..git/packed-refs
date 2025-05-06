@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+2013c6f62159cde2d05dd75f8338d91de8f2c5b8 refs/remotes/origin/braking
+ae64e05fbaf6eda592ef56c13ce89c896d489a55 refs/remotes/origin/foxy-devel
+2a780e00103ffa6d62300b5b86a543d6d0664a4e refs/remotes/origin/humble-devel
+0fa5416685ca0517952261f3e919057d3286ab2b refs/remotes/origin/melodic
+7b4fa8f225055a3b7bab80515a432773ff36dea7 refs/tags/v2.0.0-beta

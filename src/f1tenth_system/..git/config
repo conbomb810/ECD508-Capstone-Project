@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/f1tenth/f1tenth_system.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "humble-devel"]
+	remote = origin
+	merge = refs/heads/humble-devel
+[submodule "ackermann_mux"]
+	active = true
+	url = https://github.com/f1tenth/ackermann_mux.git
+[submodule "teleop_tools"]
+	active = true
+	url = https://github.com/f1tenth/teleop_tools.git
+[submodule "vesc"]
+	active = true
+	url = https://github.com/f1tenth/vesc.git

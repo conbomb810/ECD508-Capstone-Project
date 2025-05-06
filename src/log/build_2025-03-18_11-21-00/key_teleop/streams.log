@@ -1,0 +1,42 @@
+[5.264s] Invoking command in '/home/ecd508/f1tenth_ws_4/src/f1tenth_system/teleop_tools/key_teleop': PYTHONPATH=/home/ecd508/f1tenth_ws_4/src/build/key_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/key_teleop build --build-base /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build install --record /home/ecd508/f1tenth_ws_4/src/build/key_teleop/install.log --install-scripts $base/lib/key_teleop --single-version-externally-managed install_data
+[6.700s] running egg_info
+[6.700s] creating ../../../build/key_teleop/key_teleop.egg-info
+[6.700s] writing ../../../build/key_teleop/key_teleop.egg-info/PKG-INFO
+[6.700s] writing dependency_links to ../../../build/key_teleop/key_teleop.egg-info/dependency_links.txt
+[6.700s] writing entry points to ../../../build/key_teleop/key_teleop.egg-info/entry_points.txt
+[6.700s] writing requirements to ../../../build/key_teleop/key_teleop.egg-info/requires.txt
+[6.700s] writing top-level names to ../../../build/key_teleop/key_teleop.egg-info/top_level.txt
+[6.701s] writing manifest file '../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[6.701s] reading manifest file '../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[6.701s] adding license file 'LICENSE'
+[6.701s] writing manifest file '../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[6.701s] running build
+[6.701s] running build_py
+[6.701s] creating /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build
+[6.701s] creating /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build/lib
+[6.702s] creating /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build/lib/key_teleop
+[6.702s] copying key_teleop/__init__.py -> /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build/lib/key_teleop
+[6.702s] copying key_teleop/key_teleop.py -> /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build/lib/key_teleop
+[6.702s] running install
+[6.702s] running install_lib
+[6.702s] creating /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages/key_teleop
+[6.702s] copying /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build/lib/key_teleop/__init__.py -> /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages/key_teleop
+[6.702s] copying /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build/lib/key_teleop/key_teleop.py -> /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages/key_teleop
+[6.702s] byte-compiling /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages/key_teleop/__init__.py to __init__.cpython-310.pyc
+[6.703s] byte-compiling /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages/key_teleop/key_teleop.py to key_teleop.cpython-310.pyc
+[6.703s] running install_data
+[6.703s] copying package.xml -> /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/key_teleop
+[6.703s] creating /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/key_teleop/config
+[6.703s] copying config/key_teleop.yaml -> /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/key_teleop/config
+[6.703s] creating /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/ament_index
+[6.703s] creating /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/ament_index/resource_index
+[6.703s] creating /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/ament_index/resource_index/packages
+[6.703s] copying resource/key_teleop -> /home/ecd508/f1tenth_ws_4/src/install/key_teleop/share/ament_index/resource_index/packages
+[6.704s] running install_egg_info
+[6.704s] Copying ../../../build/key_teleop/key_teleop.egg-info to /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages/key_teleop-0.3.0-py3.10.egg-info
+[6.704s] running install_scripts
+[6.710s] /home/ecd508/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[6.710s]   warnings.warn(
+[6.792s] Installing key_teleop script to /home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/key_teleop
+[6.792s] writing list of installed files to '/home/ecd508/f1tenth_ws_4/src/build/key_teleop/install.log'
+[6.883s] Invoked command in '/home/ecd508/f1tenth_ws_4/src/f1tenth_system/teleop_tools/key_teleop' returned '0': PYTHONPATH=/home/ecd508/f1tenth_ws_4/src/build/key_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ecd508/f1tenth_ws_4/src/install/key_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/key_teleop build --build-base /home/ecd508/f1tenth_ws_4/src/build/key_teleop/build install --record /home/ecd508/f1tenth_ws_4/src/build/key_teleop/install.log --install-scripts $base/lib/key_teleop --single-version-externally-managed install_data
