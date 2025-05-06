@@ -1,0 +1,5 @@
+# Project Description
+ Our project is a 1/10th scale RC car that can autonomously drive around a walled track using LiDAR data processed in a deep convolutional network called TinyLidarNet, developed by a Kansas State University team, whose citation can be found at the end of this file. This repository also uses the ROS 2 humble version of the F1Tenth driver stack, which has been modified to use a laser_filters node. The car is also capable of using a custom trained YOLO model to detect and react to stop signs and targets, example images of which can be found in the repository. Additionally, the car has a mounted laser diode turret that will aim at a detected target and turn on the laser. There are multiple top level files, accounting for each of these capabilities, so if your car does not have the proper set up, you can simply run a different top level file. These top level files will be described in the "Directions to Run the Car" section. The operating system used for the project is Ubuntu 22.04, and uses ROS 2 Humble Hawksbill.
+
+# Directions to Run the Car
+ To be Added Later (It's almost 11 pm right now)
