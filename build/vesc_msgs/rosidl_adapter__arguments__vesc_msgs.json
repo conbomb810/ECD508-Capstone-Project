@@ -1,0 +1,9 @@
+{
+  "package_name": "vesc_msgs",
+  "non_idl_tuples": [
+    "/home/ecd508/f1tenth_ws_4/src/f1tenth_system/vesc/vesc_msgs:msg/VescState.msg",
+    "/home/ecd508/f1tenth_ws_4/src/f1tenth_system/vesc/vesc_msgs:msg/VescStateStamped.msg",
+    "/home/ecd508/f1tenth_ws_4/src/f1tenth_system/vesc/vesc_msgs:msg/VescImu.msg",
+    "/home/ecd508/f1tenth_ws_4/src/f1tenth_system/vesc/vesc_msgs:msg/VescImuStamped.msg"
+  ]
+}

@@ -1,0 +1,3 @@
+source;share/f1tenth_benchmarks/hook/pythonpath.ps1
+source;share/f1tenth_benchmarks/hook/pythonpath.dsv
+source;share/f1tenth_benchmarks/hook/pythonpath.sh

@@ -1,0 +1,42 @@
+{
+  "package_name": "teleop_tools_msgs",
+  "output_dir": "/home/ecd508/f1tenth_ws_4/build/teleop_tools_msgs/rosidl_generator_cpp/teleop_tools_msgs",
+  "template_dir": "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource",
+  "idl_tuples": [
+    "/home/ecd508/f1tenth_ws_4/build/teleop_tools_msgs/rosidl_adapter/teleop_tools_msgs:action/Increment.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/ecd508/ros2_humble/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../local/lib/python3.10/dist-packages/rosidl_generator_cpp/__init__.py",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__builder.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__struct.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__traits.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__builder.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__struct.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__traits.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__builder.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__struct.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__traits.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__builder.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__struct.hpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__traits.hpp.em",
+    "/home/ecd508/f1tenth_ws_4/build/teleop_tools_msgs/rosidl_adapter/teleop_tools_msgs/action/Increment.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/home/ecd508/ros2_humble/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

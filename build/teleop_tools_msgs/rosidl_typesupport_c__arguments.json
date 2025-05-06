@@ -1,0 +1,33 @@
+{
+  "package_name": "teleop_tools_msgs",
+  "output_dir": "/home/ecd508/f1tenth_ws_4/build/teleop_tools_msgs/rosidl_typesupport_c/teleop_tools_msgs",
+  "template_dir": "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/ecd508/f1tenth_ws_4/build/teleop_tools_msgs/rosidl_adapter/teleop_tools_msgs:action/Increment.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/ecd508/ros2_humble/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/home/ecd508/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/ecd508/f1tenth_ws_4/build/teleop_tools_msgs/rosidl_adapter/teleop_tools_msgs/action/Increment.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "/home/ecd508/ros2_humble/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/home/ecd508/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/home/ecd508/ros2_humble/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

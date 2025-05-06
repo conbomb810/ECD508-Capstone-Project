@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: f1tenth-benchmarks
+Version: 0.0.1
+Summary: A simulator for F1Tenth racing cars
+Home-page: UNKNOWN
+Author: Benjamin Evans
+Author-email: <bdevans@sun.ac.za>
+License: UNKNOWN
+Keywords: python,autonomous racing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Linux
+License-File: LICENSE.md
+
+Simulates the dynamics of a racing car and LiDAR scanner
+
