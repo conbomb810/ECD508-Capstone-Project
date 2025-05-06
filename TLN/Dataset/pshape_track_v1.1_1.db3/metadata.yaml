@@ -1,0 +1,32 @@
+rosbag2_bagfile_information:
+  version: 5
+  storage_identifier: sqlite3
+  duration:
+    nanoseconds: 76537420068
+  starting_time:
+    nanoseconds_since_epoch: 1742314284751342390
+  message_count: 1712
+  topics_with_message_count:
+    - topic_metadata:
+        name: /scan_filtered
+        type: sensor_msgs/msg/LaserScan
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 856
+    - topic_metadata:
+        name: /teleop
+        type: ackermann_msgs/msg/AckermannDriveStamped
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 856
+  compression_format: ""
+  compression_mode: ""
+  relative_file_paths:
+    - pshape_track_v1.1_1.db3_0.db3
+  files:
+    - path: pshape_track_v1.1_1.db3_0.db3
+      starting_time:
+        nanoseconds_since_epoch: 1742314284751342390
+      duration:
+        nanoseconds: 76537420068
+      message_count: 1712
