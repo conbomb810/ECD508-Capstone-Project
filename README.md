@@ -41,3 +41,8 @@ The script `top_level.py` integrates base autonomous driving, object detection, 
 The script `tln_inference.py` is for base autonomous driving only
 
 The script `drive_around_and_annoy_people_no_video.py` is for manual control of the turret only (no autonomous driving).
+
+# References
+Zarrar, M. M., Weng, Q., Yerjan, B., Soyyigit, A., & Yun, H. (2024). TinyLidar-Net: 2D LiDAR-based End-to-End Deep Learning Model for F1TENTH Autonomous Racing. arXiv preprint arXiv:2410.07447. [https://arxiv.org/html/2410.07447v1#S3](https://arxiv.org/html/2410.07447v1#S3)
+
+Computational Systems Lab, University of Kansas. (2024). TinyLidarNet. [https://github.com/CSL-KU/TinyLidarNet](https://github.com/CSL-KU/TinyLidarNet)
